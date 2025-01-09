@@ -23,7 +23,7 @@ export default {
   },
   data() {
     return {
-      defaultImage: "/images/default-book-cover.jpg",
+      defaultImage: "./images/default-book-cover.jpg",
     };
   },
   methods: {

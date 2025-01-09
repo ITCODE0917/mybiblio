@@ -20,7 +20,7 @@
     data() {
       return {
         book: {},
-        defaultImage: "/images/default-book-cover.jpg",
+        defaultImage: "./images/default-book-cover.jpg",
       };
     },
     mounted() {
